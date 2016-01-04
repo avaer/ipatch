@@ -1,0 +1,12 @@
+{
+  "name": "ipatch",
+  "version": "0.0.1",
+  "description": "immutablejs patch-based synchronization",
+  "author": "a@kazmer.io",
+  "main": "index.js",
+  "dependencies": {
+    "immutable": "",
+    "immutablediff": "",
+    "immutablepatch": ""
+  }
+}
