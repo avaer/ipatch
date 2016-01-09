@@ -9,5 +9,8 @@
     "immutable": "",
     "immutablediff": "",
     "immutablepatch": ""
+  },
+  "devDependencies": {
+    "expect.js": ""
   }
 }
