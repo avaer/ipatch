@@ -5,6 +5,7 @@
   "author": "a@kazmer.io",
   "main": "index.js",
   "dependencies": {
+    "events": "",
     "immutable": "",
     "immutablediff": "",
     "immutablepatch": ""
